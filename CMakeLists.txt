@@ -8,4 +8,3 @@ target_compile_features(dhagedorn-types INTERFACE cxx_std_20)
 
 target_include_directories(dhagedorn-types INTERFACE include)
 
-add_subdirectory(sample)
